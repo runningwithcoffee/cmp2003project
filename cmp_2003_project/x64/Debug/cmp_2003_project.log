@@ -1,0 +1,14 @@
+﻿  HelperFile.cpp
+C:\Users\Airborne\Proje Dropbox\Proje\cmp_2003_project\HelperFile.cpp(6,27): warning C4101: 'big3': unreferenced local variable
+C:\Users\Airborne\Proje Dropbox\Proje\cmp_2003_project\HelperFile.cpp(6,59): warning C4101: 'big7': unreferenced local variable
+C:\Users\Airborne\Proje Dropbox\Proje\cmp_2003_project\HelperFile.cpp(6,43): warning C4101: 'big5': unreferenced local variable
+C:\Users\Airborne\Proje Dropbox\Proje\cmp_2003_project\HelperFile.cpp(6,11): warning C4101: 'Big1': unreferenced local variable
+C:\Users\Airborne\Proje Dropbox\Proje\cmp_2003_project\HelperFile.cpp(6,51): warning C4101: 'big6': unreferenced local variable
+C:\Users\Airborne\Proje Dropbox\Proje\cmp_2003_project\HelperFile.cpp(6,35): warning C4101: 'big4': unreferenced local variable
+C:\Users\Airborne\Proje Dropbox\Proje\cmp_2003_project\HelperFile.cpp(6,67): warning C4101: 'big8': unreferenced local variable
+C:\Users\Airborne\Proje Dropbox\Proje\cmp_2003_project\HelperFile.cpp(6,19): warning C4101: 'big2': unreferenced local variable
+C:\Users\Airborne\Proje Dropbox\Proje\cmp_2003_project\HelperFile.cpp(6,75): warning C4101: 'big9': unreferenced local variable
+C:\Users\Airborne\Proje Dropbox\Proje\cmp_2003_project\HelperFile.cpp(17,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Projeİskeleti.cpp
+  Generating Code...
+  cmp_2003_project.vcxproj -> C:\Users\Airborne\Proje Dropbox\Proje\cmp_2003_project\x64\Debug\cmp_2003_project.exe

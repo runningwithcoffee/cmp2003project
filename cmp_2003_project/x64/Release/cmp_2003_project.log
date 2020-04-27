@@ -1,0 +1,9 @@
+﻿  HelperFile.cpp
+C:\Users\Airborne\Proje Dropbox\Proje\cmp_2003_project\HelperFile.cpp(16,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Projeİskeleti.cpp
+  Generating code
+  5 of 173 functions ( 2.9%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  cmp_2003_project.vcxproj -> C:\Users\Airborne\Proje Dropbox\Proje\cmp_2003_project\x64\Release\cmp_2003_project.exe
